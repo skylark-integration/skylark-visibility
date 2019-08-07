@@ -1,0 +1,3 @@
+--reporter spec
+--require ./test/mocha
+test/*.test.js
